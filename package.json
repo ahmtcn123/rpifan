@@ -1,0 +1,35 @@
+{
+  "name": "rpifan",
+  "version": "1.0.0",
+  "description": "Auto fan controller for rpi",
+  "main": "index.js",
+  "dependencies": {
+    "pigpio": "^1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmtcn123/rpifan.git"
+  },
+  "keywords": [
+    "raspberry",
+    "raspberrypi",
+    "rpi",
+    "fan",
+    "rpidegree"
+  ],
+  "author": "Ahmetcan Aksu",
+  "license": "Apache-2.0",
+  { 
+  "name" : "Ahmetcan Aksu",
+  "email" : "ahmetcanco@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ahmtcn123/rpifan/issues"
+  },
+  "os" : [ "!win32" ],
+  "homepage": "https://github.com/ahmtcn123/rpifan#readme"
+}
