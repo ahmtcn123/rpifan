@@ -23,10 +23,6 @@
   ],
   "author": "Ahmetcan Aksu",
   "license": "Apache-2.0",
-  { 
-  "name" : "Ahmetcan Aksu",
-  "email" : "ahmetcanco@gmail.com",
-  },
   "bugs": {
     "url": "https://github.com/ahmtcn123/rpifan/issues"
   },
