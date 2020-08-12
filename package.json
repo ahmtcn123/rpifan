@@ -1,6 +1,6 @@
 {
   "name": "rpifan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Auto fan controller for rpi",
   "main": "index.js",
   "dependencies": {
