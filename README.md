@@ -30,6 +30,3 @@ $ npm i rpifan
 
 
 <img src="https://image.ibb.co/ijT4GV/fan.png" height="350">
-
-
-`You can see things I learn in 1 year if you look commits`
